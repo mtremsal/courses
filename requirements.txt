@@ -1,0 +1,11 @@
+pbr==1.10.0
+six==1.10.0
+spark-parser==1.4.0
+stevedore==1.17.0
+uncompyle2==2.0.0
+uncompyle6==2.8.0
+vboxapi==1.0
+virtualenv==15.0.3
+virtualenv-clone==0.2.6
+wheel==0.26.0
+xdis==2.2.1
