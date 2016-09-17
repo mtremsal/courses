@@ -1,6 +1,6 @@
 # courses
 
-## ud036 - Intro to Data Analysis
+## ud036 - Programming Foundations with Python
 
 Completed
 
