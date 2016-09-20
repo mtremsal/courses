@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"toy",
+				"toy_story3"
+			],
+			[
+				"to",
+				"toy_story2"
+			],
+			[
+				"targ",
+				"target_path"
+			],
+			[
+				"obser",
+				"observation"
+			],
+			[
+				"acti",
+				"action_space"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "markdo",
+		"selected_items":
+		[
+			[
+				"markdo",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mtremsal/Projects/courses",
+		"/Users/mtremsal/Projects/courses/ud170",
+		"/Users/mtremsal/Projects/courses/ud170/resources"
+	],
+	"file_history":
+	[
+		"/Users/mtremsal/Projects/courses/README.md",
+		"/Users/mtremsal/Projects/courses/environment.yml",
+		"/Users/mtremsal/Projects/courses/new_requirements.txt",
+		"/Users/mtremsal/Projects/courses/requirements.txt",
+		"/Users/mtremsal/Projects/courses/.env",
+		"/Users/mtremsal/Projects/courses/ud170/resources/ipython_notebook_tutorial.ipynb",
+		"/Users/mtremsal/Projects/courses/ud170/resources/enrollments.csv",
+		"/Users/mtremsal/Projects/courses/ud170/resources/daily_engagement.csv",
+		"/Users/mtremsal/Projects/courses/ud170/resources/table_descriptions.txt",
+		"/Users/mtremsal/Projects/courses/ud036/lesson7.py",
+		"/Users/mtremsal/Projects/courses/ud036/lesson6_fresh_tomatoes.py",
+		"/Users/mtremsal/Projects/courses/ud036/lesson6.py",
+		"/Users/mtremsal/Projects/courses/ud036/lesson5.py",
+		"/Users/mtremsal/Projects/courses/ud036/lesson6/lesson6_fresh_tomatoes.py",
+		"/Users/mtremsal/Projects/courses/ud036/lesson5/movie_quotes.txt",
+		"/Users/mtremsal/Projects/courses/ud036/lesson4.py",
+		"/Users/mtremsal/Projects/courses/ud036/requirements.txt",
+		"/Users/mtremsal/Projects/mlady/agents/stand_agent.py",
+		"/Users/mtremsal/Projects/mlady/agents/random_agent.py",
+		"/Users/mtremsal/Projects/mlady/core/__main__.py",
+		"/Users/mtremsal/Projects/mlady/core/blackjack.py",
+		"/Users/mtremsal/Projects/mlady/.gitignore",
+		"/Users/mtremsal/Projects/mlady/save.p",
+		"/Users/mtremsal/Projects/mlady/agents/custom_dqn_agent.py",
+		"/Users/mtremsal/Projects/mlady/agents/dqn_agent.py",
+		"/Users/mtremsal/Projects/mlady/requirements.txt",
+		"/Users/mtremsal/Projects/mlady/gym/gym/envs/tests/test_bjenv.py",
+		"/Users/mtremsal/Projects/mlady/agents/human_agent.py",
+		"/Users/mtremsal/Projects/mlady/gym/gym/scoreboard/scoring.py",
+		"/Users/mtremsal/Projects/mlady/gym/gym/envs/mlady/bjenv.py",
+		"/Users/mtremsal/Projects/mlady/neuralnets/examples/__init__.py",
+		"/Users/mtremsal/Projects/mlady/neuralnets/examples/intro.py",
+		"/Users/mtremsal/Projects/mlady/neuralnets/__init__.py",
+		"/Users/mtremsal/Projects/mlady/gym/gym/envs/__init__.py",
+		"/Users/mtremsal/Projects/mlady/gym/gym/envs/toy_text/frozen_lake.py",
+		"/Users/mtremsal/Projects/mlady/gym/gym/envs/toy_text/discrete.py",
+		"/Users/mtremsal/Projects/mlady/gym/gym/envs/toy_text/blackjack.py",
+		"/Users/mtremsal/Projects/mlady/gym/gym/envs/mlady/__init__.py",
+		"/Users/mtremsal/Projects/mlady/agents/__main__.py",
+		"/Users/mtremsal/Projects/mlady/gym/examples/agents/tabular_q_agent.py",
+		"/Users/mtremsal/Projects/mlady/envs/bjenv.py",
+		"/Users/mtremsal/Projects/mlady/gym/gym/envs/doom/doom_env.py",
+		"/Users/mtremsal/Projects/mlady/tests/test_blackjack.py",
+		"/Users/mtremsal/Projects/mlady/tests/test_bjenv.py",
+		"/Users/mtremsal/Projects/mlady/environments/bjenv.py",
+		"/Users/mtremsal/Projects/mlady/agents/__init__.py",
+		"/Users/mtremsal/Projects/mlady/gym/setup.py",
+		"/Users/mtremsal/Projects/mlady/setup.py",
+		"/Users/mtremsal/Projects/mlady/core/__init__.py",
+		"/Users/mtremsal/Projects/mlady/envs/__init__.py",
+		"/Users/mtremsal/Projects/mlady/gym/gym/envs/registration.py",
+		"/Users/mtremsal/Projects/mlady/envs/__main__.py",
+		"/Users/mtremsal/Projects/mlady/gym/gym/envs/atari/atari_env.py",
+		"/Users/mtremsal/Projects/mlady/gym/gym/envs/classic_control/cartpole.py",
+		"/Users/mtremsal/Projects/mlady/gym/gym/core.py",
+		"/Users/mtremsal/Projects/mlady/gym/gym/spaces/box.py",
+		"/Users/mtremsal/Projects/mlady/gym/examples/agents/keyboard_agent.py",
+		"/Users/mtremsal/Projects/mlady/gym/requirements.txt",
+		"/Users/mtremsal/Projects/mlady/gym/gym/__init__.py",
+		"/Users/mtremsal/Projects/mlady/gym/gym/configuration.py",
+		"/Users/mtremsal/Projects/mlady/test_blackjack.py",
+		"/Users/mtremsal/Projects/mlady/tests/context.py",
+		"/Users/mtremsal/Projects/Blackjack/core/__main__.py",
+		"/Users/mtremsal/Projects/Blackjack/README.md",
+		"/Users/mtremsal/Projects/Blackjack/core/__init__.py",
+		"/Users/mtremsal/Projects/Blackjack/tests/context.py",
+		"/Users/mtremsal/Projects/Blackjack/__init__.py",
+		"/Users/mtremsal/Projects/Blackjack/tests/__init__.py",
+		"/Users/mtremsal/Projects/Blackjack/blackjack.py",
+		"/Users/mtremsal/Projects/Blackjack/tests.py",
+		"/Users/mtremsal/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/mtremsal/Projects/Blackjack/.gitignore",
+		"/Users/mtremsal/Projects/Blackjack/LICENSE",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/assets/styles/base/_typography.scss",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/package.json",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/gulpfile.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/dist/assets.json",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/assets/manifest.json",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/assets/fonts/icomoon/style.css",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/bower.json",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/assets/fonts/icomoon/style.scss",
+		"/Users/mtremsal/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/mtremsal/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/.gitignore",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-config-hosting.php",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-settings.php",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/.htaccess",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/db-config.php",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/index.php",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-load.php",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-config.php",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/assets/fonts/icomoon/variables.scss",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/assets/fonts/icomoon/demo-files/demo.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/assets/fonts/icomoon/demo-files/demo.css",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/assets/fonts/icomoon/Read Me.txt",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/assets/styles/base/_helpers.scss",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/assets/fonts/icomoon/selection.json",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/wp-content/themes/tfd/assets/fonts/icomoon/demo.html",
+		"/Users/mtremsal/Projects/VVV/www/tfd-3/htdocs/README.md",
+		"/Users/mtremsal/Desktop/Setting up the Dev instance.md",
+		"/Users/mtremsal/Downloads/wordpress-4.5.2/wp-settings.php",
+		"/Users/mtremsal/Downloads/dom16331/wp-config.php",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-config.php",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-settings.php",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/base.php",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/scripts/Prebid.js/src/adapters/aol.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/templates/head-single.php",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/scripts/Prebid.js/integrationExamples/gpt/pbjs_example_gpt.html",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/templates/head.php",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/templates/header.php",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/templates/content.php",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/scripts/Prebid.js/src/prebid.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/scripts/Prebid.js/src/constants.json",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/scripts/Prebid.js/build/dev/prebid.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/manifest.json",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/scripts/Prebid.js/build/dist/prebid.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/scripts/Prebid.js/src/adapters/adapter.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/scripts/Prebid.js/src/utils.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/scripts/Prebid.js/src/ga.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/scripts/Prebid.js/src/events.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/scripts/Prebid.js/src/bidmanager.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/scripts/Prebid.js/src/bidfactory.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/scripts/Prebid.js/src/adloader.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/assets/scripts/Prebid.js/src/adaptermanager.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/gulpfile.js",
+		"/Users/mtremsal/Projects/VVV/www/tfd-2/htdocs/wp-content/themes/tfd/bower.json",
+		"/Users/mtremsal/Projects/VVV/www/tfd-1/htdocs/wp-config.php",
+		"/Users/mtremsal/Desktop/d14354_20160220-file-backup-prod/dom14354/README.md"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"save",
+			"print",
+			"log",
+			"rmsprop",
+			"rmsprop_cache",
+			"grad_buffer",
+			"product2",
+			"buckets",
+			"compute_graph_stats",
+			"allowed_actions",
+			"available_actions",
+			"dist",
+			"cssnano",
+			"true",
+			"true ",
+			"config",
+			"WP_ENV",
+			"$path--icons",
+			"icomoon",
+			"node_modules",
+			"pagely",
+			"db-config",
+			"browsersync"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "courses.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 341.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
