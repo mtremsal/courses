@@ -90,4 +90,4 @@ ENV/
 .ropeproject
 
 # Sublime user-specific config
-.sublime-workspace
+*.sublime-workspace

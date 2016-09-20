@@ -1,4 +1,21 @@
 name: courses
+channels: !!python/object/new:ruamel_yaml.comments.CommentedSeq
+  listitems:
+  - conda-forge
+  - defaults
+  state:
+    _yaml_format: !!python/object:ruamel_yaml.comments.Format
+      _flow_style: false
+    _yaml_line_col: !!python/object:ruamel_yaml.comments.LineCol
+      col: 2
+      data:
+        0:
+        - 1
+        - 4
+        1:
+        - 2
+        - 4
+      line: 1
 dependencies:
 - _nb_ext_conf=0.2.0=py27_0
 - alabaster=0.7.8=py27_0
@@ -25,6 +42,10 @@ dependencies:
 - cloudpickle=0.2.1=py27_0
 - clyent=1.2.2=py27_0
 - colorama=0.3.7=py27_0
+- conda-forge::mock=2.0.0=py27_0
+- conda-forge::pbr=1.10.0=py27_0
+- conda-forge::protobuf=3.0.0b2=py27_0
+- conda-forge::tensorflow=0.10.0=py27_0
 - configobj=5.0.6=py27_0
 - configparser=3.5.0b2=py27_1
 - contextlib2=0.5.3=py27_0
@@ -193,12 +214,16 @@ dependencies:
   - jupyter-client==4.3.0
   - jupyter-console==4.1.1
   - jupyter-core==4.1.0
+  - mock==2.0.0
   - nb-anacondacloud==1.1.0
   - nb-conda==1.1.0
   - nb-conda-kernels==1.0.3
+  - pbr==1.10.0
   - prompt-toolkit==1.0.3
+  - protobuf==3.0.0b2
   - ruamel-yaml-==VERSION
   - sphinx-rtd-theme==0.1.9
   - tables==3.2.2
+  - tensorflow==0.10.0
 prefix: /Users/mtremsal/anaconda/envs/courses
 
