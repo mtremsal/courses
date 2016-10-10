@@ -44,13 +44,13 @@ TBD
 ### [Data Analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002) Track
 
 In-Progress:
-* ud827 - [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) [*··]
+* ud201 - [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) [*··]
 
 Completed:
+* ud827 - [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) [*··]
 * ud170 - [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) [*··]
 
 Next Steps:
-* ud201 - [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) [*··]
 * ud032 - [Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032) [**·]
 * ud120 - [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) [**·]
 * ud804 - [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) [*··]
